@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas Masroor</h1>
 <h3 align="center">A passionate Data Scientist, Analyst from Pakistan</h3>
 
-<img align ="right" alt="Data Analyst" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+<img align ="right" alt="Data Analyst" width="500" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amasroor100&label=Profile%20views&color=0e75b6&style=flat" alt="amasroor100" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, SQL, Pandas, Matplotlib, Regular Expressions (RE), Seaborn**
 
-- 📫 How to reach me **amasroor100@gmail.com**
+- 📫 You can reach me at **amasroor100@gmail.com**
 
 - ⚡ Fun fact **I think I am cooperative & helpful**
 
