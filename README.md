@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amasroor100&label=Profile%20views&color=0e75b6&style=flat" alt="amasroor100" /> </p>
 
-- 🔭 I’m currently working on per **Data Analyst (Story Telling)**
+- 🔭 I’m currently working on **Data Analyst (Story Telling)**
 
 - 🌱 I’m currently learning **Machine Learning**
 
