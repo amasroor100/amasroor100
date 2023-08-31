@@ -1,4 +1,4 @@
-![logo](https://github.com/amasroor100/amasroor100/blob/main/Banner.JPG)
+<img align ="center" width="1200" src="https://github.com/amasroor100/amasroor100/blob/main/Banner.JPG">
 <h1 align="center">Hi 👋, I'm Anas Masroor</h1>
 <h3 align="center">A passionate Data Scientist, Analyst from Pakistan</h3>
 
