@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amasroor100?tab=repositories](https://github.com/amasroor100?tab=repositories)
 
-- 💬 Ask me about **Python, SQL, Pandas, Matplotlib, Regular Expressions (RE), Seaborn, Folium(Visualization through Map)**
+- 💬 Ask me about **Python, SQL, Pandas, Numpy, Matplotlib, Regular Expressions (RE), Seaborn, Folium(Visualization through Map)**
 
 - 📫 You can reach me at **amasroor100@gmail.com**
 
