@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amasroor100&label=Profile%20views&color=0e75b6&style=flat" alt="amasroor100" /> </p>
 
-- 🔭 I’m currently working on **Data Analyst (Story Telling)**
+- 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data Analyst/ Scientist**
 
